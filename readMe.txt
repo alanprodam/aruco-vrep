@@ -6,7 +6,7 @@ Make sure you have following files in your directory, in order to run the variou
 4. simpleTest.py (or any other example file)
 
 ***** References ***
-- Aruco Library: 
+- Aruco Library: ArUco-6x6(50) - Ids=02
 
 - Aruco Marker online generator: http://chev.me/arucogen/
 
