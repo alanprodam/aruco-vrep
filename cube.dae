@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<COLLADA version="1.4.1" xmlns="http://www.collada.org/2005/11/COLLADASchema">
+  <asset>
+    <contributor>
+      <author>Avastar User</author>
+      <authoring_tool>Avastar 1-1-13 on Blender 2.68 (sub 0)</authoring_tool>
+    </contributor>
+    <created>2014-10-14T18:19:37</created>
+    <modified>2014-10-14T18:19:37</modified>
+    <unit meter="1" name="meter" />
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_cameras />
+  <library_lights />
+  <library_effects>
+    <effect id="Material_033-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.8 0.8 0.8 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1.0</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Material_032-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.8 0.8 0.8 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1.0</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Material_034-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.8 0.8 0.8 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1.0</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Material_035-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.8 0.8 0.8 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1.0</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Material_036-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.8 0.8 0.8 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1.0</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="Material_037-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.8 0.8 0.8 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1.0</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="Material_033-material" name="Material.033">
+      <instance_effect url="#Material_033-effect" />
+    </material>
+    <material id="Material_032-material" name="Material.032">
+      <instance_effect url="#Material_032-effect" />
+    </material>
+    <material id="Material_034-material" name="Material.034">
+      <instance_effect url="#Material_034-effect" />
+    </material>
+    <material id="Material_035-material" name="Material.035">
+      <instance_effect url="#Material_035-effect" />
+    </material>
+    <material id="Material_036-material" name="Material.036">
+      <instance_effect url="#Material_036-effect" />
+    </material>
+    <material id="Material_037-material" name="Material.037">
+      <instance_effect url="#Material_037-effect" />
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Cube-mesh" name="cube">
+      <mesh>
+        <source id="Cube-mesh-positions">
+          <float_array count="24" id="Cube-mesh-positions-array">-1 -1 -1   -1 1 -1   1 1 -1   1 -1 -1   -1 -1 1   -1 1 1   1 1 1   1 -1 1  </float_array>
+          <technique_common>
+            <accessor count="8" source="#Cube-mesh-positions-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube-mesh-normals">
+          <float_array count="18" id="Cube-mesh-normals-array">-1 0 0   0 1 -0   1 0 -0   0 -1 0   -0 0 -1   -0 0 1  </float_array>
+          <technique_common>
+            <accessor count="6" source="#Cube-mesh-normals-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube-mesh-map-0">
+          <float_array count="48" id="Cube-mesh-map-0-array">0 1   1 1   1 0   0 0   0 1   1 1   1 0   0 0   1 1   0 1   0 0   1 0   1 1   0 1   0 0   1 0   0 0   0 1   1 1   1 0   1 0   1 1   0 1   0 0  </float_array>
+          <technique_common>
+            <accessor count="24" source="#Cube-mesh-map-0-array" stride="2">
+              <param name="S" type="float" />
+              <param name="T" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Cube-mesh-vertices">
+          <input semantic="POSITION" source="#Cube-mesh-positions" />
+        </vertices>
+        <polylist count="1" material="Material_033-material">
+          <input offset="0" semantic="VERTEX" source="#Cube-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Cube-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Cube-mesh-map-0" />
+          <vcount>4</vcount>
+          <p>6 2 8  7 2 9  3 2 10  2 2 11    </p>
+        </polylist>
+        <polylist count="1" material="Material_032-material">
+          <input offset="0" semantic="VERTEX" source="#Cube-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Cube-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Cube-mesh-map-0" />
+          <vcount>4</vcount>
+          <p>7 5 20  6 5 21  5 5 22  4 5 23    </p>
+        </polylist>
+        <polylist count="1" material="Material_034-material">
+          <input offset="0" semantic="VERTEX" source="#Cube-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Cube-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Cube-mesh-map-0" />
+          <vcount>4</vcount>
+          <p>5 1 4  6 1 5  2 1 6  1 1 7    </p>
+        </polylist>
+        <polylist count="1" material="Material_035-material">
+          <input offset="0" semantic="VERTEX" source="#Cube-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Cube-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Cube-mesh-map-0" />
+          <vcount>4</vcount>
+          <p>0 4 16  1 4 17  2 4 18  3 4 19    </p>
+        </polylist>
+        <polylist count="1" material="Material_036-material">
+          <input offset="0" semantic="VERTEX" source="#Cube-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Cube-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Cube-mesh-map-0" />
+          <vcount>4</vcount>
+          <p>7 3 12  4 3 13  0 3 14  3 3 15    </p>
+        </polylist>
+        <polylist count="1" material="Material_037-material">
+          <input offset="0" semantic="VERTEX" source="#Cube-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Cube-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Cube-mesh-map-0" />
+          <vcount>4</vcount>
+          <p>4 0 0  5 0 1  1 0 2  0 0 3    </p>
+        </polylist>
+      </mesh>
+      <extra>
+        <technique profile="MAYA">
+          <double_sided>1</double_sided>
+        </technique>
+      </extra>
+    </geometry>
+  </library_geometries>
+  <library_controllers />
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Cube" name="Cube" type="NODE">
+        <translate sid="location">-0.278102 -0.0225268 0.176602</translate>
+        <rotate sid="rotationZ">0 0 1 0</rotate>
+        <rotate sid="rotationY">0 1 0 0</rotate>
+        <rotate sid="rotationX">1 0 0 0</rotate>
+        <scale sid="scale">1 1 1</scale>
+        <instance_geometry url="#Cube-mesh">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Material_033-material" target="#Material_033-material">
+                <bind_vertex_input input_semantic="TEXCOORD" input_set="0" semantic="UVMap" />
+              </instance_material>
+              <instance_material symbol="Material_032-material" target="#Material_032-material">
+                <bind_vertex_input input_semantic="TEXCOORD" input_set="0" semantic="UVMap" />
+              </instance_material>
+              <instance_material symbol="Material_034-material" target="#Material_034-material">
+                <bind_vertex_input input_semantic="TEXCOORD" input_set="0" semantic="UVMap" />
+              </instance_material>
+              <instance_material symbol="Material_035-material" target="#Material_035-material">
+                <bind_vertex_input input_semantic="TEXCOORD" input_set="0" semantic="UVMap" />
+              </instance_material>
+              <instance_material symbol="Material_036-material" target="#Material_036-material">
+                <bind_vertex_input input_semantic="TEXCOORD" input_set="0" semantic="UVMap" />
+              </instance_material>
+              <instance_material symbol="Material_037-material" target="#Material_037-material">
+                <bind_vertex_input input_semantic="TEXCOORD" input_set="0" semantic="UVMap" />
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene" />
+  </scene>
+</COLLADA>
